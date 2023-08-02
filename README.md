@@ -1,4 +1,4 @@
-# Flappy
+# Flappy Bird
 Flappy Bird is a mobile game where you embody a flying bird. You have to avoid the incoming pipes. In the computer version I made, the mechanism is simple. You just have to press SPACE to go up.
 
 ## To get started: 
