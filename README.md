@@ -5,11 +5,11 @@ you need to have python installed on your computer, then you need a virtual envi
 ```sh
 python -m venv venv
 ```
-then
+then:
 ```sh
 pip install pygame
 ```
-finally
+finally:
 ```sh
 python maain.py
 ```
