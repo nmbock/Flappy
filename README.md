@@ -2,15 +2,16 @@
 Flappy Bird is a mobile game where you embody a flying bird. You have to avoid the incoming pipes. In the computer version I made, the mechanism is simple. You just have to press SPACE to go up.
 
 ## To get started: 
-you need to have python installed on your computer, then you need a virtual environment to use the pygame library:
+you need to have python installed on your computer, then you need a virtual environment to use the pygame library.
+In the directory where you cloned the repository, in the command prompt do :
 ```sh
 python -m venv venv
 ```
-then:
+then :
 ```sh
 pip install pygame
 ```
-finally:
+finally :
 ```sh
 python main.py
 ```
