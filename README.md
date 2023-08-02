@@ -12,7 +12,7 @@ pip install pygame
 ```
 finally:
 ```sh
-python maain.py
+python main.py
 ```
  ## you should see this:
  
